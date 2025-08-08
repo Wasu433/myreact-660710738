@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './hysilens2.png';
 import './App.css';
 import Hello from './hello';
 import GoodBye from './bye';
